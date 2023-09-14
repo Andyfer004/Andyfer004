@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andy-fuentes-a35369200/](https://www.linkedin.com/in/andy-fuentes-a35369200/)
 
-- ⚡ Fun fact **I get emotional over meaningless things**
+- ⚡ Fun fact **I program on mac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
