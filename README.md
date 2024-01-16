@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andy Fuentes</h1>
+<h1 align="center">Hi, I'm Andy Fuentes</h1>
+<h3 align="center"> Im studen of engineering science computer in the UVG</h3>
 <h3 align="center">I am a mobile platform developer in Android Studio, full stack and a page developer in WordPress, my favorite language is Java and Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyfer004&label=Profile%20views&color=0e75b6&style=flat" alt="andyfer004" /> </p>
