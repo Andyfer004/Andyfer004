@@ -85,7 +85,7 @@ Join me on Discord, where I share insights, victories, and even the occasional s
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="Downloads/snake.svg" alt="snake"/>
 </p>
 
 
