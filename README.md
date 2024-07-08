@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andyfer004&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
 
@@ -81,7 +81,7 @@ Join me on Discord, where I share insights, victories, and even the occasional s
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Andyfer004&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
