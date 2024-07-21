@@ -71,7 +71,11 @@ Join me on Discord, where I share insights, victories, and even the occasional s
 
 
 ---
-
+<p align="center">
+  <a href="https://github.com/Andyfer004">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andyfer004&theme=radical" alt="Andyfer004 GitHub Contribution"/>
+  </a>
+</p>
 
 
 
