@@ -20,6 +20,7 @@ Join me on Discord, where I share insights, victories, and even the occasional s
 - To promote education and support it
 - Looking for people to start a business
 - Learning SCI Cibersecurity
+- Projects in NSHSS
 
 
 ## Languages and Tools 
