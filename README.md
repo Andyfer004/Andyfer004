@@ -19,6 +19,7 @@ Join me on Discord, where I share insights, victories, and even the occasional s
 - Working on a website for an international company
 - To promote education and support it
 - Looking for people to start a business
+- Learning SCI Cibersecurity
 
 
 ## Languages and Tools 
